@@ -7,7 +7,7 @@ public class PRoba {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
 
 
-            Logout.insert(1321, "124das123das", "POST http");
+            Logout.insert(2, "124das123das", "POST http");
 
     }
 }
